@@ -1,0 +1,8 @@
+/* You can add global styles to this file, and also import other style files */
+@import '~bootstrap/dist/css/bootstrap.min.css';    /* Bootstrap */
+body {
+    font-family: sans-serif;
+   /* background: linear-gradient(to right, #0f0c29, #302b63, #24243e); */
+    background-image:url(login.jpg);  /*Displays -Result severity page*/
+}
+

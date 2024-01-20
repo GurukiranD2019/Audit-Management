@@ -1,0 +1,64 @@
+.result-card{
+    top:150px;
+    text-align: center;
+    background: white;
+    color:black;
+    }
+.card-title{
+    background-color: rgb(217, 184, 248);
+}
+
+.status-btn{
+    background-color: #ff0000;
+    width: 100px;
+    height: 25px;
+    border-radius: 0%;
+}
+
+.dark-table{
+    background-color: black;
+}
+
+td, th{
+    text-align: center;
+    background: linear-gradient(to right, #0f0c29, #302b63, #24243e);
+    color:white;
+
+}
+.text-center{
+	color:black;
+}
+
+.bigbtn{
+	background: linear-gradient(to right, #0f0c29, #302b63, #24243e);
+	color:white;
+    padding: 8px;
+}
+
+.bigbtn:hover{
+	background:linear-gradient(to right, black, 40%, #302b63 );
+	color:white;
+    padding: 8px;
+}
+
+.endbtn{
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+.tsev{
+    font-weight: 500;
+}
+
+.dotdots{
+    position: absolute;
+    top:15vh;
+    left:37vw;
+}
+
+.text-center{
+    background-color: #180050;
+    color:white;
+    font-family: Papyrus;
+    font-size: 40px;
+}
